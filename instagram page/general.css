@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: roboto;
+    color:rgb(36,36,36);
+}
+body{
+    margin: 10px 20px;
+}
+a{
+    text-decoration: none;
+    color:rgb(48, 115, 241)
+}
